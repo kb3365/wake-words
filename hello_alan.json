@@ -3,7 +3,7 @@
   "wake_word": "Hello Alan",
   "author": "Rob",
   "website": "",
-  "model": "hello_alan.tflite",
+  "model": "https://raw.githubusercontent.com/kb3365/wake-words/main/hello_alan.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
